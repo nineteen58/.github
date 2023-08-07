@@ -1,2 +1,2 @@
-# .github
+# Singularity Capital
 Information
